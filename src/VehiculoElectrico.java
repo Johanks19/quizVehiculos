@@ -1,4 +1,6 @@
-package PACKAGE_NAME;
-
 public interface VehiculoElectrico {
+
+    void cargarBateria();
+    void nivelBateria();
+
 }
